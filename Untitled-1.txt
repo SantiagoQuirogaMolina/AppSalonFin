@@ -1,0 +1,4 @@
+host:  nyc.domcloud.id
+u:appsalonmaster
+p: Or8_jw3X91K-)d3CdC
+bd: appsalonmaster_db 
